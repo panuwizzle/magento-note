@@ -7,3 +7,6 @@
 - Flat shipping rate : http://www.magentocommerce.com/magento-connect/multi-flat-shipping-1.html
 - Bank transfer : http://www.magentocommerce.com/magento-connect/bankpayment.html
 - JS CSS optimizer : http://www.magentocommerce.com/magento-connect/gtspeed.html
+
+# Note
+- append ath=1 to the url will show the block detail
